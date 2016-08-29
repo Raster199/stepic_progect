@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.db',
     'django.contrib.staticfiles',
     'qa',
+    'django.contrib.auth.models',
 ]
 
 MIDDLEWARE = [
