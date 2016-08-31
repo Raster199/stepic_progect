@@ -80,6 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stepicdb',
+        'USER': 'root',
     }
 }
 
